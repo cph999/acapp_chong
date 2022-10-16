@@ -1,6 +1,0 @@
-class AcGame{
-
-   constructor(id){
-    
-   }
-}
