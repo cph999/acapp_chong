@@ -16,7 +16,7 @@ class AcGameObject{
     on_destory(){
     } 
 
-    destory(){
+    destroy(){
         this.on_destory();
         for( let i = 0; i < AC_GAME_OBJECTS.length; i ++){
             if(AC_GAME_OBJECTS[i] === this){
